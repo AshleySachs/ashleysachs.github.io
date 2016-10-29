@@ -27,7 +27,7 @@ description:         >
 #sidebar_tags:        [jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /hydejack/public/img/nap.jpg
+image:               /public/img/nap.jpg
 color:               '#A85641'
 
 # Fonts
@@ -40,8 +40,8 @@ author:
   name:              'Ashley Sachs'
 
   # This photo will be used in the about section
-  photo:             http://qwtel.com/public/img/flo.jpg
-  photo2x:           http://qwtel.com/public/img/flo@2x.jpg
+  photo:             http://ashleysachs.com/public/img/
+  photo2x:           http://ashleysachs.com/public/img/
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:
