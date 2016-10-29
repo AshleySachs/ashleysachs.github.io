@@ -40,8 +40,8 @@ author:
   name:              'Ashley Sachs'
 
   # This photo will be used in the about section
-  photo:             http://ashleysachs.com/public/img/
-  photo2x:           http://ashleysachs.com/public/img/
+  photo:             http://ashleysachs.com/public/img/redbox.jpg
+  photo2x:           http://ashleysachs.com/public/img/redbox.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:
