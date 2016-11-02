@@ -21,14 +21,14 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  Thoughts on life from a self-proclaimed customer service snob.  
+  Thoughts on life from a customer service guru with the occasionally reference to food, travel, and whatever falls in between.  
 
 # The tags listed as entries in the sidebar
 #sidebar_tags:        [jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
 image:               /public/img/nap.jpg
-color:               '#A85641'
+color:               '#60C6E0'
 
 # Fonts
 font:                '"PT Serif", Georgia, serif'
