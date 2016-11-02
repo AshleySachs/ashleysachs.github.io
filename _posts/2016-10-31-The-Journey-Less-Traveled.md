@@ -5,9 +5,6 @@ title: The Journey Less Traveled
 date: '2016-11-02 18:27:42'
 ---
 
-## The Journey Less Traveled
-
-
 I read a lot growing up. I still do, but of course, when you are younger everyone reads the same thing because it's what you do in school. I'm sure you have read "The Lord of the Flies" by William Golding and "Animal Farm" by George Orwell. Along the same lines, we have all come across the same poems, like "The Road Not Taken" by Robert Frost. When I was younger I was obsessed with this poem because I thought it spoke to my desire for travel. Call it cliche, but I still identify with this poem in a major way, for what I think Frost meant it to be for: a journey that you didn't expect and weren't too sure about. 
 
 ### "You went to school for what?"
