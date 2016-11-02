@@ -1,6 +1,13 @@
 ---
 published: false
 ---
+---
+published: true
+layout: post
+title: The Journey Less Traveled
+date: '2016-11-02 18:27:42'
+---
+
 ## The Journey Less Traveled
 
 
