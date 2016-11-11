@@ -27,7 +27,7 @@ description:         >
 #sidebar_tags:        [jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /public/img/nap.jpg
+image:               /public/img/2012-07-21 20.18.00.jpg
 color:               '#60C6E0'
 
 # Fonts
