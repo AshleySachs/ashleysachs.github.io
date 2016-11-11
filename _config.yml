@@ -21,7 +21,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  Thoughts on life from a customer service guru with the occasionally reference to food, travel, and whatever falls in between.  
+  Thoughts on life from a customer service guru with the occasional reference to food, travel, and whatever falls in between.  
 
 # The tags listed as entries in the sidebar
 #sidebar_tags:        [jekyll, hyde]
