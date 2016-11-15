@@ -19,6 +19,6 @@ Do you love being inspired? Let me re-phrase that, are you addicted to being ins
 # Whole Foods Dates
 Allow me to stand on my soapbox for a moment. Rest is vital to the human body and mind. I don't mean just getting the sixish hours of sleep you need to physically operate. I am talking about your disconnect time, your "I'm going to sit here and enjoy the moment" time. I do that at Whole Foods with my husband. We have a Whole Foods equipped with an expansive salad bar, pizza oven, sandwhich shop, coffee stand and pub. Everything about this Whole Foods is inviting and it allows us to sit and rest with good food and drink. I find my peace and calm amongst the cheese, wine, and decadent canolis they make at the pastry counter. Call it silly, but I find my rest at Whole Foods and that rest completes my tool belt. 
 
-
+![](WholeFoodsCanoli.png)
 
 
