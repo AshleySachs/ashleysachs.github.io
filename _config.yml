@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Permalinks
-permalink:           pretty
+permalink:           :slug
 
 # Setup
 url:                 http://ashleysachs.com
