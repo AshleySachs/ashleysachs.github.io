@@ -1,4 +1,7 @@
 ---
+layout: post
+title: What's In My Toolbelt
+date: 2016-11-14 20:35:46
 published: true
 ---
 
