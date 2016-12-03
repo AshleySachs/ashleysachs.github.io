@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## My Thinking and Not Thinking Spaces
 ​
