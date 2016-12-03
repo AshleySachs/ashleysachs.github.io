@@ -14,6 +14,6 @@ Like I said before, too much thinking space isn't a good thing for me. But there
 ### When I need to forget about it
 ​
 Now for my not thinking space. Believe it or not, my thinking exercises during my runs led me to the realization that you can have too much of a good thing. I was trying to run daily and I found out very quickly that my anxiety level was rising dramatically. Yes, there was a lot going on in life. I stayed continually busy with my work and was having a hard time setting up boundaries. However, trying to work through all these things during a run made me feel like I was drowning. I had to tell myself that I didn't have to spend every hour of every day being productive and that restful mind is just as important. I found my peace and quiet like may others: on the yoga mat. Yoga was an escape for me because I was forced to shift my focus during practice. I couldn't think about the 15 things I had to accomplish after leaving the mat, I had to make sure my body was in the right position, that I was breathing right, and my balance was just so. I'll go ahead and break blog code and quote Dr. Brene Brown a second post in a row:
-![](/https://s-media-cache-ak0.pinimg.com/564x/3a/c9/3c/3ac93c2a6e13a1cbf6268999505dde03.jpg)
+![](https://s-media-cache-ak0.pinimg.com/564x/3a/c9/3c/3ac93c2a6e13a1cbf6268999505dde03.jpg)
 ​
 I encourage you to find your thinking space but also your not thinking space. Make sure you are making time not just for your body to rest, but your mind to rest also (and please don't always resort to Netflix to do so.)
